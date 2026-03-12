@@ -1,17 +1,17 @@
 {
   "_note": "Edit this file to update your website content. You do NOT need to touch any HTML file for the fields listed here.",
 
-  "name": "J. Woodford",
-  "title": "Ph.D. Student",
-  "department": "[Your Department]",
-  "university": "[Your University]",
-  "city": "[City, State]",
-  "bio": "Welcome! I am an aspiring researcher passionate about [your research area]. I am currently pursuing my Ph.D. at [Your University], where I focus on [brief description of your work]. My research aims to [impact / goal].",
+  "name": "James Woodford",
+  "title": "M.Sc. Student",
+  "department": "Mechanical Engineering",
+  "university": "University of Alberta",
+  "city": "Edmonton, AB, Canada",
+  "bio": "Welcome! I am an aspiring researcher passionate about [your research area]. I am currently pursuing my M.Sc. at the University of Alberta, where I focus on developing numerical software for green energy applications.",
 
-  "email": "your.email@university.edu",
+  "email": "james.woodford@ualberta.ca",
   "github_username": "james-woodford-dev",
-  "linkedin_profile": "yourprofile",
-  "scholar_id": "YOUR_SCHOLAR_ID",
+  "linkedin_profile": "https://www.linkedin.com/in/james-woodford-2b468316a/",
+  "scholar_id": "https://scholar.google.com/citations?user=lofMBZ4AAAAJ&hl=en",
 
   "research_interests": [
     {
