@@ -1,6 +1,6 @@
-# jwoodfor.github.io
+# james-woodford-dev.github.io
 
-Personal academic website for J. Woodford, hosted on GitHub Pages.
+Personal website for J. Woodford that is hosted on GitHub Pages.
 
 ---
 
